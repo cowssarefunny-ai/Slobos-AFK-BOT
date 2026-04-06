@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "monkeysmen.aternos.me:48152",
+    "ip": "monkeysmen.aternos.me",
     "port": 48152,
     "version": "1.21.11"
   },
